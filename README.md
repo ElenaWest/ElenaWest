@@ -1,19 +1,19 @@
-### Привет 👋, меня зовут Елена Василенко
-___________________________________________________
+<h1 align="center">Привет 👋, меня зовут Елена Василенко</h1>
+<h3 align="center">и я Front-end developer</h3>
+<hr />
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,css,figma,git,github,nodejs,babel,vscode,webpack,mongodb,nginx,postman,html,express,flutter&perline=3)](https://skillicons.dev)
+- 🌱 Окончила курсы: **Яндекс Практикум по специальности веб-разработчик**
 
-<!--
-**ElenaWest/ElenaWest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Немного обо мне: **Я живу в г.Раменское Московской области, имею высшее образование по специальности "Экономист", обладаю активной жизненной позицией, люблю учиться и развиваться. Изучаю фронтенд разработку, увлекаюсь вокалом, играю в народном театре оперетты и создаю украшения своими руками.**
 
-Here are some ideas to get you started:
+### Мои навыки ⚙️
+[![My Skills](https://skillicons.dev/icons?i=react,js,css,figma,git,github,nodejs,babel,vscode,webpack,mongodb,nginx,postman,html,express,flutter&perline=8)](https://skillicons.dev)
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Контакты  💬
+<p>📞 <a href='tel:89165275627'>8-916-527-56-27</a> </p>
+<p>✉️ <a href='mailto:ElenaWest92@yandex.ru'>ElenaWest92@yandex.ru</a> </p>
+<p><img src='img/icons/Telegram.svg' title='Telegram' alt='Telegram' width='15'> <a href='https://t.me/elenawest92'>@elena_grach</a></p>
+<hr />
+
+
