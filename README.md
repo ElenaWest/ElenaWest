@@ -13,7 +13,7 @@
 ### Контакты  💬
 <p>📞 <a href='tel:89165275627'>8-916-527-56-27</a> </p>
 <p>✉️ <a href='mailto:ElenaWest92@yandex.ru'>ElenaWest92@yandex.ru</a> </p>
-<p><img src='img/icons/Telegram.svg' title='Telegram' alt='Telegram' width='15'> <a href='https://t.me/elenawest92'>@elena_grach</a></p>
+<p>📫Телеграмм: <a href='https://t.me/elenawest92'>@elena_grach</a></p>
 <hr />
 
 
