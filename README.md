@@ -1,4 +1,7 @@
 ### Привет 👋, меня зовут Елена Василенко
+___________________________________________________
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,css,figma,git,github,nodejs,babel,vscode,webpack,mongodb,nginx,postman,html,express,flutter&perline=3)](https://skillicons.dev)
 
 <!--
 **ElenaWest/ElenaWest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
