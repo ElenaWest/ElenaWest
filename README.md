@@ -7,7 +7,7 @@
 - 💬 Немного обо мне: **Я живу в г.Раменское Московской области, имею высшее образование по специальности "Экономист", обладаю активной жизненной позицией, люблю учиться и развиваться. Изучаю фронтенд разработку, увлекаюсь вокалом, играю в народном театре оперетты и создаю украшения своими руками.**
 
 ### Мои навыки ⚙️
-[![My Skills](https://skillicons.dev/icons?i=react,js,css,figma,git,github,nodejs,babel,vscode,webpack,mongodb,nginx,postman,html,express,photoshop,flutter&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,css,figma,git,github,nodejs,babel,vscode,webpack,mongodb,nginx,postman,html,express,saas,photoshop,&perline=8)](https://skillicons.dev)
 <hr />
 
 ### Контакты  💬
